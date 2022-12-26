@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/L0I7nVdun560Nq1BQvNJvEhNiV22vwUNIq7mAUlzQfxjEbPhHCN0MRN/a7sG+j+gz9gShZbTpNVm/nvKFoqg==",
+  "dgSpecHash": "8WAXm4Hi7BXcROunS0WZodbub894xz42+yI5EJ5auam0yOc/P0rJfabGoeXGwPxTUUeyOjcxx35G6//cSCF/PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\FACTURA.csproj",
+  "projectFilePath": "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\FACTURA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julio_k\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\julio_k\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

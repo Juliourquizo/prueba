@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\FACTURA.csproj": {}
+    "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\FACTURA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\FACTURA.csproj": {
+    "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\FACTURA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\FACTURA.csproj",
+        "projectUniqueName": "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\FACTURA.csproj",
         "projectName": "FACTURA",
-        "projectPath": "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\FACTURA.csproj",
+        "projectPath": "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\FACTURA.csproj",
         "packagesPath": "C:\\Users\\julio_k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio_k\\Desktop\\PIZ\\PART1\\FACTURA\\obj\\",
+        "outputPath": "C:\\Users\\julio_k\\Desktop\\proyecto\\EjercicioEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio_k\\AppData\\Roaming\\NuGet\\NuGet.Config",

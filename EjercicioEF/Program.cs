@@ -162,6 +162,7 @@
                                       where linead.IdHojaFactura == idunion
                                       select linead;
 
+                    // Se obtiene el objeto Linea.
                     foreach (var flin in objetoLinea)
                     {
                         Console.WriteLine("------------------------");
