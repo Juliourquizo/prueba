@@ -73,7 +73,7 @@
                         fk_idcliente = ff.IdCliente;
                     }
 
-                    HojaFactura factura = new HojaFactura(Fecha, Estado, Comentario, fk_idcliente);
+                    HojaFactura factura = new HojaFactura(fecha, estado, comentario, fk_idcliente);
                     context.Add(factura);
                     context.SaveChanges();
 
